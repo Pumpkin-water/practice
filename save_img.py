@@ -5,7 +5,7 @@ save_img.py
 
 import pymysql
 
-# 连接数据库    xiugai
+# 连接数据库    xiugai   xiugai
 db=pymysql.connect(host='localhost',port=3306,user='root',
                    password='123456',database='stu',charset='utf8')
 
