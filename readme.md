@@ -16,7 +16,11 @@ MySQL数据库
 
 【1】 人工管理阶段
 
+<<<<<<< Updated upstream
 ds
+=======
+texxt
+>>>>>>> Stashed changes
 
 【2】 文件管理阶段 （.txt  .doc  .xls）
     
